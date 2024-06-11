@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud maged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud maged" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud maged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud maged" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud maged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[mahmoud maged](https://www.linkedin.com/in/mahmoud-maged-4a3222241/)" height="30" width="40" /></a>
+<a href="https://fb.com/mahmoud maged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[mahmoud maged](https://www.facebook.com/mahmoud.maged.90857)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
