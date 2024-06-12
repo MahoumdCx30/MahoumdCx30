@@ -2,9 +2,7 @@
 <h3 align="center">A Motivated Back-End developer from Egypt</h3>
 
 
-<p align="center">
-  <img src="https://i.gifer.com/6M8R.gif" alt="Banner" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlscjJ2djFyM29hbzhwdml0c3NxOXV1ejgybTFzcHd0YjY1OTlyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" />
